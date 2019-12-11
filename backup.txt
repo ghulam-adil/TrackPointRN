@@ -1,0 +1,51 @@
+
+                    {/* <Marker.Animated
+                        ref={marker => {
+                            this.marker = marker;
+                        }}
+                        coordinate={this.getMapRegion()}
+                    >
+                        {/* <Image style={styles.imageStyle} source={require('../../assets/marker.png')} /> */}
+                        {
+                            // this.handleMarker()
+                        } 
+
+                    {/* </Marker.Animated> */} */}
+
+                    {/* {
+                        this.state.markers.length > 0 ?
+                        
+                        this.state.markers.map((marker, index) => (
+                        <MapView.Marker 
+                            key={index}
+                            coordinate={marker.coordinates}
+                            title={marker.title}
+                        />
+                        ))
+
+                        :
+
+                        null
+                    
+                    } */}
+
+                    {/* {this.state.markers.map(marker => (
+                        <MapView.Marker 
+                            coordinate={marker.coordinates}
+                            title={marker.title}
+                        />
+                    ))} */}
+
+
+                    {/* {this.state.markers.map((marker, index) => (
+                        <Marker
+                            coordinate={marker.coordinates}
+                            key={index}
+                        >
+
+                            <View>
+                                <Text>{marker.title}</Text>
+                            </View>
+
+                        </Marker>
+                    ))} */}

@@ -1,0 +1,57 @@
+{
+  "name": "TrackPointRN",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.6.2",
+    "@react-native-community/datetimepicker": "^2.1.0",
+    "@react-native-community/geolocation": "^2.0.2",
+    "haversine": "^1.1.1",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-chart": "^1.0.8-beta",
+    "react-native-chart-kit": "^3.6.1",
+    "react-native-check-box": "^2.1.7",
+    "react-native-collapsible": "^1.5.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-keyboard-aware-scroll-view": "^0.9.1",
+    "react-native-map-clustering": "^2.0.2",
+    "react-native-maps": "0.25.0",
+    "react-native-maps-super-cluster": "^1.6.0",
+    "react-native-pdf": "^5.1.7",
+    "react-native-popup-dialog": "^0.18.3",
+    "react-native-pure-chart": "0.0.24",
+    "react-native-push-notification": "^3.1.9",
+    "react-native-reanimated": "^1.2.0",
+    "react-native-screens": "^2.0.0-alpha.3",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-svg": "^9.9.6",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-view-pdf": "^0.10.1",
+    "react-navigation": "^4.0.5",
+    "react-navigation-drawer": "^2.2.1",
+    "react-navigation-stack": "^1.7.3",
+    "rn-fetch-blob": "^0.11.2",
+    "toggle-switch-react-native": "^2.1.0",
+    "victory-native": "^33.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/runtime": "^7.5.0",
+    "@react-native-community/eslint-config": "^0.0.3",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
