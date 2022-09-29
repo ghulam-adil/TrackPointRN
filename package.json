@@ -40,7 +40,7 @@
     "react-navigation-stack": "^1.7.3",
     "rn-fetch-blob": "^0.11.2",
     "toggle-switch-react-native": "^2.1.0",
-    "victory-native": "^33.0.0"
+    "victory-native": "^36.6.8"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
